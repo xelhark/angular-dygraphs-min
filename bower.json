@@ -1,12 +1,12 @@
 {
-  "name": "angular-dygraphs",
+  "name": "angular-dygraphs-min",
   "version": "0.1.0",
-  "homepage": "https://github.com/cdjackson/angular-dygraphs",
+  "homepage": "https://github.com/xelhark/angular-dygraphs",
   "authors": [
-    "Chris Jackson <chris@cd-jackson.com>"
+    "Gabriele Platania<gabriele.platania@gmail.com>"
   ],
-  "description": "AngularJS directive for dygraphs",
-  "main": "src/angular-dygraphs.js",
+  "description": "AngularJS directive for dygraph",
+  "main": "dist/angular-dygraphs.min.js",
   "keywords": [
     "angularjs",
     "dygraphs"
